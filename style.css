@@ -32,7 +32,7 @@ button {
 }
 
 .wish-button {
-  background-color: #fff;
+  background-color: ##800080;
   border: 2px dashed pink;
   padding: 1em;
   width: 120px;
@@ -46,6 +46,6 @@ button {
 }
 
 .wish-button:hover {
-  background-color: #ffe4f0;
+  background-color: #ed1f7b;
   transform: scale(1.05);
 }
