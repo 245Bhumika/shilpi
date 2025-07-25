@@ -31,7 +31,7 @@ function checkName() {
     loadLetter();
     loadWishes();
   } else {
-    alert("Oops! This gift is only for Shilpi 🌸");
+    alert("Oops! This gift is only for her 🌸");
   }
 }
 
@@ -42,8 +42,7 @@ Dear Shilpi,
 Happy Birthday to the kindest, smartest, and beautiful soul. 💖  
 In a world full of people, I’m so grateful that I found *you* in this little corner of our hostel life. Your smile, your strength, your stories – they’ve all touched me in ways I can’t fully describe.
 
-From,  
-Bhumika 💜
+From ~Bhumika 💜
 `;
   document.getElementById("letterText").innerText = letter;
 }
