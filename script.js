@@ -39,17 +39,10 @@ function loadLetter() {
   const letter = `
 Dear Shilpi,
 
-Happy Birthday to the kindest, smartest, and most beautiful soul I’ve come to know. 💖  
+Happy Birthday to the kindest, smartest, and beautiful soul. 💖  
 In a world full of people, I’m so grateful that I found *you* in this little corner of our hostel life. Your smile, your strength, your stories – they’ve all touched me in ways I can’t fully describe.
 
-You’ve always carried yourself with grace, even when things weren’t easy. I’ve watched you grow and glow – and I just know, the version of Shilpi that will turn 21 next year will be unstoppable.
-
-This is your space – your little digital reminder that you are *enough*. You are doing better than you think. And you are *deeply loved*.  
-Whenever life gets messy, or you need a smile, just come here. These words, these wishes, this website – all of it is *yours*.
-
-Here’s to today, to tomorrow, and to the fierce, free, and fearless woman you're becoming.
-
-With all my heart,  
+From,  
 Bhumika 💜
 `;
   document.getElementById("letterText").innerText = letter;
