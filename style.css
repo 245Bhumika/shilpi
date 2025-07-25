@@ -42,18 +42,24 @@ button:hover {
   background-color: #dda0dd; /* Light purple */
   border: 2px dashed #ffb6c1; /* Light pink border */
   color: #4b0082; /* Indigo text */
-  padding: 1em;
+  padding: 0.8em;
   width: 140px;
   height: 140px;
   border-radius: 16px;
-  font-weight: bold;
-  font-size: 1em;
+  font-weight: 600;
+  font-size: 0.85em; /* Reduced font size */
   cursor: pointer;
   position: relative;
   overflow: hidden;
   transition: 0.4s ease-in-out;
   box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
+  word-wrap: break-word;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
+
 
 .wish-button:hover {
   background-color: #ff85a2; /* Brighter pink on hover */
