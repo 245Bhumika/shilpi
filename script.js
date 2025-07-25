@@ -37,8 +37,6 @@ function checkName() {
 
 function loadLetter() {
   const letter = `
-Dear Shilpi,
-
 Happy Birthday to the kindest, smartest, and beautiful soul. 💖  
 In a world full of people, I’m so grateful that I found *you* in this little corner of our hostel life. Your smile, your strength, your stories – they’ve all touched me in ways I can’t fully describe.
 
